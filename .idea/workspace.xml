@@ -4,10 +4,8 @@
     <list default="true" id="6a56f9a2-66ff-4bbb-a4f9-5717065e94c6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV.xcodeproj/project.xcworkspace/xcuserdata/barrybryant.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/wenderTV.xcodeproj/project.xcworkspace/xcuserdata/barrybryant.xcuserdatad/UserInterfaceState.xcuserstate" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV/Presenter.js" afterPath="$PROJECT_DIR$/wenderTV/Presenter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV/homeScreen.tvml" afterPath="$PROJECT_DIR$/wenderTV/homeScreen.tvml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV/main.js" afterPath="$PROJECT_DIR$/wenderTV/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV/rootMenu.tvml" afterPath="$PROJECT_DIR$/wenderTV/rootMenu.tvml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wenderTV/search.tvml" afterPath="$PROJECT_DIR$/wenderTV/search.tvml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,14 +20,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="appletvos" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wenderTV/main.js">
+      <file leaf-file-name="search.tvml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wenderTV/search.tvml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="31" column="71" lean-forward="false" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
-              <folding>
-                <element signature="e#0#1116#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="584">
+              <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,9 +46,10 @@
       <list>
         <option value="$PROJECT_DIR$/wenderTV/video.tvml" />
         <option value="$PROJECT_DIR$/wenderTV/homeScreen.tvml" />
-        <option value="$PROJECT_DIR$/wenderTV/rootMenu.tvml" />
         <option value="$PROJECT_DIR$/wenderTV/Presenter.js" />
         <option value="$PROJECT_DIR$/wenderTV/main.js" />
+        <option value="$PROJECT_DIR$/wenderTV/rootMenu.tvml" />
+        <option value="$PROJECT_DIR$/wenderTV/search.tvml" />
       </list>
     </option>
   </component>
@@ -149,6 +146,84 @@
               <option name="myItemId" value="wenderTV" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App Resources" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App Resources" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App Resources" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rwdevcon" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wenderTV" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -186,12 +261,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491594494619</updated>
-      <workItem from="1491594495856" duration="5342000" />
+      <workItem from="1491594495856" duration="6823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5342000" />
+    <option name="totallyTimeSpent" value="6823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1028" y="23" width="1526" height="1023" extended-state="0" />
@@ -201,7 +276,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20380078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -398,36 +473,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wenderTV/homeScreen.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1475020003000" expanded="true" signature="0:2723" ph="{...}" />
-            <marker date="1475020003000" expanded="true" signature="16:624" ph="[...]" />
-            <marker date="1475020003000" expanded="true" signature="22:221" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="227:408" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="414:620" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="641:1737" ph="[...]" />
-            <marker date="1475020003000" expanded="true" signature="647:784" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="790:925" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="931:1085" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1091:1213" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1219:1359" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1365:1476" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1482:1601" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1607:1733" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1754:2720" ph="[...]" />
-            <marker date="1475020003000" expanded="true" signature="1760:1909" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="1915:2075" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="2081:2234" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="2240:2395" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="2401:2562" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-            <marker date="1475020003000" expanded="true" signature="2568:2716" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wenderTV/ResourceLoader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -468,46 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wenderTV/homeScreen.tvml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="53" column="61" lean-forward="false" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
-          <folding>
-            <marker date="1491749599000" expanded="true" signature="48:2131" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="59:213" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="75:201" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="233:2119" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="250:268" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="293:2098" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="316:897" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="342:873" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="449:812" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="616:778" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="917:1441" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="942:1020" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1046:1420" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1114:1358" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1228:1324" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1460:2072" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1485:1561" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1587:2052" ph="..." />
-            <marker date="1491749599000" expanded="true" signature="1655:1990" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wenderTV/rootMenu.tvml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <marker date="1491749868000" expanded="true" signature="48:247" ph="..." />
-            <marker date="1491749868000" expanded="true" signature="62:235" ph="..." />
-            <marker date="1491749868000" expanded="true" signature="108:220" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wenderTV/Presenter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -537,8 +542,130 @@
         <state relative-caret-position="528">
           <caret line="31" column="71" lean-forward="false" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
           <folding>
-            <element signature="e#0#1116#0" expanded="true" />
+            <marker date="1491750042000" expanded="true" signature="0:1116" ph="/*...*/" />
+            <marker date="1491750042000" expanded="true" signature="1152:1849" ph="{...}" />
+            <marker date="1491750042000" expanded="true" signature="1220:1845" ph="{...}" />
+            <marker date="1491750042000" expanded="true" signature="1239:1585" ph="{...}" />
+            <marker date="1491750042000" expanded="true" signature="1591:1841" ph="{...}" />
+            <marker date="1491750042000" expanded="true" signature="1899:2246" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/rootMenu.tvml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <marker date="1491750337000" expanded="true" signature="48:397" ph="..." />
+            <marker date="1491750337000" expanded="true" signature="62:385" ph="..." />
+            <marker date="1491750337000" expanded="true" signature="108:220" ph="..." />
+            <marker date="1491750337000" expanded="true" signature="281:370" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/identity.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475020003000" expanded="true" signature="0:2592" ph="{&quot;title&quot;: &quot;Identity&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="227:281" ph="{&quot;hero&quot;: &quot;talk-vicki-wenderlich-identity.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="778:1317" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="1340:2278" ph="{...}" />
+            <marker date="1475020003000" expanded="true" signature="1360:1437" ph="{&quot;out-of-five&quot;: 4.6...}" />
+            <marker date="1475020003000" expanded="true" signature="1456:1548" ph="{&quot;rock&quot;: 89...}" />
+            <marker date="1475020003000" expanded="true" signature="1565:2274" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="1573:1921" ph="{&quot;name&quot;: &quot;B. Sucker&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1929:2268" ph="{&quot;name&quot;: &quot;Bacon Grease&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2292:2590" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="2298:2391" ph="{&quot;firstname&quot;: &quot;Vicki&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2397:2488" ph="{&quot;firstname&quot;: &quot;Greg&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2494:2586" ph="{&quot;firstname&quot;: &quot;Christine&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/photos.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475020003000" expanded="true" signature="0:744" ph="{...}" />
+            <marker date="1475020003000" expanded="true" signature="14:742" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="20:166" ph="{&quot;image&quot;: &quot;samplePhoto_01.jpg&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="172:313" ph="{&quot;image&quot;: &quot;samplePhoto_02.jpg&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="319:447" ph="{&quot;image&quot;: &quot;samplePhoto_03.jpg&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="453:585" ph="{&quot;image&quot;: &quot;samplePhoto_04.jpg&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="591:738" ph="{&quot;image&quot;: &quot;samplePhoto_05.jpg&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/homeScreen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475020003000" expanded="true" signature="0:2723" ph="{...}" />
+            <marker date="1475020003000" expanded="true" signature="16:624" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="22:221" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="227:408" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="414:620" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="641:1737" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="647:784" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="790:925" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="931:1085" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1091:1213" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1219:1359" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1365:1476" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1482:1601" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1607:1733" ph="{&quot;image&quot;: &quot;image-series-cover.png&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1754:2720" ph="[...]" />
+            <marker date="1475020003000" expanded="true" signature="1760:1909" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="1915:2075" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2081:2234" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2240:2395" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2401:2562" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+            <marker date="1475020003000" expanded="true" signature="2568:2716" ph="{&quot;template&quot;: &quot;video.tvml&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/homeScreen.tvml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="53" column="61" lean-forward="false" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+          <folding>
+            <marker date="1491749599000" expanded="true" signature="48:2131" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="59:213" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="75:201" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="233:2119" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="250:268" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="293:2098" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="316:897" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="342:873" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="449:812" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="616:778" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="917:1441" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="942:1020" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1046:1420" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1114:1358" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1228:1324" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1460:2072" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1485:1561" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1587:2052" ph="..." />
+            <marker date="1491749599000" expanded="true" signature="1655:1990" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wenderTV/search.tvml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

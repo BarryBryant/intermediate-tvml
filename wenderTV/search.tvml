@@ -1,4 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-
+    <head>
+        <style>
+            .suggestionList {
+                margin: -150 0;
+            }
+        </style>
+    </head>
+    <searchTemplate>
+        <searchField/>
+        <collectionList>
+            <list class="suggestionList">
+                <section>
+                    <header>
+                        <title>Suggestions</title>
+                    </header>
+                    {{#suggestions}}
+                        <listItemLockup>
+                            <title>{{title}}</title>
+                        </listItemLockup>
+                    {{/suggestions}}
+                </section>
+            </list>
+            <separator/>
+            <grid>
+                <header>
+                    <title>Search Results</title>
+                </header>
+                <section>
+                    {{#results}}
+                        <lockup template="{{template}}" data="{{data}}"
+                                presentation="push">
+                            <img src="{{image}}" width="512" height="288"/>
+                            <title>{{title}}</title>
+                        </lockup>
+                    {{/results}}
+                </section>
+            </grid>
+        </collectionList>
+    </searchTemplate>
 </document>

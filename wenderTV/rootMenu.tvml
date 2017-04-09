@@ -5,5 +5,9 @@
             data="homeScreen.json" presentation="menuBar">
             <title>Videos</title>
         </menuItem>
+        <menuItem template="search.tvml" data="search.json"
+            presentation="menuBar">
+            <title>Search</title>
+        </menuItem>
     </menuBar>
 </document>
