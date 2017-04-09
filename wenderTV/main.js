@@ -29,8 +29,7 @@ App.onLaunch = function(options) {
       var dataController = new DataController(resourceLoader);
       var eventHandler = new EventHandler(presenter, dataController);
 
-      var homeData = dataController.retrieveData("homeScreen.json", null);
-      presenter.present("homeScreen.tvml", homeData, "push", eventHandler);
+        presenter.present("rootMenu.tvml", null, "push", eventHandler);
     } else {
       var alert = createAlert("Evaluate Scripts Error", "There was an error attempting to evaluate the external JavaScript files.");
       navigationDocument.presentModal(alert);

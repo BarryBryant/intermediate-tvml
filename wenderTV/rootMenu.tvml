@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-
+    <menuBar>
+        <menuItem template="homeScreen.tvml"
+            data="homeScreen.json" presentation="menuBar">
+            <title>Videos</title>
+        </menuItem>
+    </menuBar>
 </document>

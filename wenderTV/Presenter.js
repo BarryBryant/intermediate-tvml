@@ -46,6 +46,9 @@ class Presenter {
       case 'push':
         navigationDocument.pushDocument(doc);
         break;
+      case 'menuBar':
+          this._presentMenuBarItem(doc, sender);
+          break;
     }
 
   }
@@ -82,4 +85,14 @@ class Presenter {
     return this._resourceLoader.convertNamesToURLs(object);
   }
 
+  _presentMenuBarItem(doc, menuItem) {
+      var feature = menuItem.parentNode.getFeature("MenuBarDocument");
+      if (feature) {
+          var currentDoc = feature.getDocument(menuItem);
+          if (!currentDoc) {
+              feature.setDocument(doc, menuItem);
+          }
+
+      }
+  }
 }
