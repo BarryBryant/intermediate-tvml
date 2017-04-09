@@ -1,4 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-
+    <stackTemplate>
+        <banner>
+        </banner>
+        <collectionList>
+            <carousel>
+                <section>
+                    {{#featured}}
+                        <lockup template="{{template}}" data="{{data}}"
+                                presentation="push">
+                            <img src="{{image}}" width="1740" height="500"/>
+                            <overlay>
+                                <title>{{title}}</title>
+                                <subtitle>{{subtitle}}</subtitle>
+                            </overlay>
+                        </lockup>
+                    {{/featured}}
+                </section>
+            </carousel>
+            <shelf>
+                <header>
+                    <title>Top-Rated Series</title>
+                </header>
+                <section>
+                    {{#topSeries}}
+                        <lockup>
+                            <img src="{{image}}" width="332" height="500"/>
+                            <overlay>
+                                <title>{{title}}</title>
+                            </overlay>
+                        </lockup>
+                    {{/topSeries}}
+                </section>
+            </shelf>
+            <grid>
+                <header>
+                    <title>Your Watchlist</title>
+                </header>
+                <section>
+                    {{#watchlist}}
+                        <lockup
+                            template="{{template}}"
+                            data="{{data}}"
+                            presentation="push">
+                            <img src="{{image}}" width="480" height="240"/>
+                            <title>{{title}}</title>
+                        </lockup>
+                    {{/watchlist}}
+                </section>
+            </grid>
+        </collectionList>
+    </stackTemplate>
 </document>
